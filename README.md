@@ -1,13 +1,15 @@
 <!-- ================= HEADER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=0:0f2027,100:203a43&height=140&section=header&text=Athota%20Jayavanth&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Athota%20Jayavanth&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20ML%20Researcher&descSize=18&descAlignY=51" width="100%"/>
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=6CB6FF&center=true&vCenter=true&width=700&lines=AI+%7C+Machine+Learning+%7C+Deep+Learning;NLP+%7C+Reinforcement+Learning;Focused+on+robust+and+practical+ML+systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=6CB6FF&center=true&vCenter=true&width=600&lines=AI+%7C+Machine+Learning+%7C+Deep+Learning;Natural+Language+Processing;Reinforcement+Learning+%7C+Computer+Vision;Building+Robust+ML+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Applied%20AI%20Systems-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Interest-Research%20%26%20Deployment-lightgrey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Applied%20AI%20Systems-0066ff?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Interest-Research%20%26%20Deployment-00d4aa?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 ---
@@ -16,96 +18,217 @@
 
 I am an **AI/ML-focused Computer Science undergraduate** pursuing **B.Tech in CSE (AI & ML)** at **VIT-AP University**, with hands-on experience across **Natural Language Processing, Deep Learning, and Reinforcement Learning**.
 
-My work emphasizes **building end-to-end machine learning systems** with strong attention to **data quality, evaluation rigor, model efficiency, and reproducibility**. I enjoy working with Transformer-based NLP models, deep learning pipelines for medical imaging, and reinforcement learning strategies in simulated environments.
+My work emphasizes **building end-to-end machine learning systems** with strong attention to:
+- 📊 Data quality and preprocessing pipelines
+- 🎯 Rigorous evaluation and error analysis
+- ⚡ Model efficiency and optimization
+- 🔄 Reproducibility and clean code practices
 
-I use GitHub as a technical journal to document experiments, benchmark models, and maintain clean, structured ML pipelines that reflect both **research depth and engineering discipline**.
-
----
-
-## 🧠 Core Areas
-
-- 🔍 Applied Machine Learning & Evaluation  
-- 🧠 NLP with Transformer Models  
-- 🩺 Deep Learning for Healthcare  
-- 🎮 Reinforcement Learning  
-- ⚙️ Deployment-aware AI systems  
+I use GitHub as a **technical journal** to document experiments, benchmark models, and maintain structured ML pipelines that reflect both **research depth and engineering discipline**.
 
 ---
 
-## 🚀 Selected Projects
+## 🧠 Core Expertise
 
-- **Plagiarism Detection (NLP)**  
-  Transformer-based plagiarism detection on PDF documents using PyMuPDF, custom preprocessing, and fine-tuned language models.
+<table>
+<tr>
+<td width="50%">
 
-- **Fake News Detection**  
-  End-to-end NLP pipeline with TF-IDF + Logistic Regression baselines and BERT fine-tuning.
+### 🔬 Research Focus
+- Applied Machine Learning & Evaluation
+- NLP with Transformer Models
+- Deep Learning for Healthcare
+- Reinforcement Learning Algorithms
 
-- **Hybrid Reinforcement Learning – CartPole**  
-  Comparative study of Hill Climbing, DDQN, and hybrid strategies achieving faster convergence.
+</td>
+<td width="50%">
 
-- **Skin Cancer Detection**  
-  CNN-based medical image classification using ResNet and EfficientNet with ROC/PR analysis.
+### 🛠️ Engineering Skills
+- End-to-end ML Pipeline Development
+- Model Fine-tuning & Optimization
+- Deployment-aware AI Systems
+- MLOps & System Design
 
-- **Stock Price Prediction**  
-  LSTM-based time-series forecasting with hyperparameter tuning and a Streamlit dashboard.
-
----
-
-## 🧰 Tech I’m Comfortable With
-
-### 🔹 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css" />
-</p>
-
-### 🔹 ML / DL / NLP
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAI-00C4B3?style=flat-square"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square"/>
-</p>
-
-### 🔹 Frameworks & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode,linux" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📌 Currently Exploring
+## 🚀 Featured Projects
 
-- Hybrid **Transformer + classical ML** pipelines  
-- Multilingual & code-mixed NLP (Telugu, Hinglish)  
-- Better evaluation & error analysis techniques  
-- Multimodal learning approaches in healthcare  
+<details open>
+<summary><b>🔍 Natural Language Processing</b></summary>
+<br>
+
+**📄 Plagiarism Detection System**
+- Transformer-based plagiarism detection on PDF documents
+- Custom preprocessing pipeline using PyMuPDF
+- Fine-tuned language models with attention visualization
+
+**📰 Fake News Detection**
+- Complete NLP pipeline: TF-IDF + Logistic Regression baseline
+- BERT fine-tuning with comprehensive evaluation metrics
+- Real-time inference API
+
+</details>
+
+<details>
+<summary><b>🎮 Reinforcement Learning</b></summary>
+<br>
+
+**🏋️ Hybrid RL Strategies – CartPole**
+- Comparative analysis: Hill Climbing, DDQN, and hybrid approaches
+- Achieved 30% faster convergence with hybrid strategy
+- Detailed ablation studies and visualization
+
+</details>
+
+<details>
+<summary><b>🩺 Healthcare AI</b></summary>
+<br>
+
+**🔬 Skin Cancer Detection**
+- CNN-based medical image classification
+- ResNet and EfficientNet architectures
+- ROC/PR curve analysis with clinical metrics
+
+</details>
+
+<details>
+<summary><b>📈 Time Series & Forecasting</b></summary>
+<br>
+
+**💹 Stock Price Prediction**
+- LSTM-based time-series forecasting
+- Hyperparameter optimization with Optuna
+- Interactive Streamlit dashboard
+
+</details>
+
+---
+
+## 🧰 Technology Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 💻 Languages
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### 🤖 ML/DL Frameworks
+<div align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+<br><br>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/FastAI-00C4B3?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### 🛠️ Tools & Platforms
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+<br><br>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</div>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📚 Additional Libraries & Tools</b></summary>
+<br>
+
+```python
+data_science = ['NumPy', 'Pandas', 'Matplotlib', 'Seaborn', 'Plotly']
+nlp_tools = ['NLTK', 'SpaCy', 'Transformers', 'SentenceTransformers']
+ml_ops = ['MLflow', 'Weights & Biases', 'DVC', 'Optuna']
+deployment = ['FastAPI', 'Streamlit', 'Gradio', 'Docker']
+```
+
+</details>
+
+---
+
+## 📌 Current Focus
+
+```mermaid
+mindmap
+  root((Learning))
+    Hybrid Systems
+      Transformer + Classical ML
+      Ensemble Architectures
+    Multilingual NLP
+      Telugu Language Processing
+      Code-Mixed Text (Hinglish)
+    ML Engineering
+      Evaluation Frameworks
+      Error Analysis Tools
+      MLOps Best Practices
+    Multimodal Learning
+      Vision + Language Models
+      Healthcare Applications
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayavanth18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6CB6FF&icon_color=6CB6FF&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayavanth18&theme=tokyonight&hide_border=true&background=0D1117&ring=6CB6FF&fire=6CB6FF&currStreakLabel=6CB6FF" alt="GitHub Streak" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayavanth18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6CB6FF&text_color=C9D1D9" alt="Top Languages"/>
+</p>
 
 ---
 
 ## 🌱 Beyond Coding
 
-- Reading about **ML system design & MLOps**
-- Writing research-oriented project ideas
-- Leadership through academics and sports
+- 📖 Reading about **ML System Design & MLOps**
+- ✍️ Writing technical documentation and research notes
+- 🎯 Contributing to open-source ML projects
+- 🏆 Leadership through academics and sports
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/jayavanth18">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:athotaj.pegasian@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/jayavanth18">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=jayavanth18&icon=2&color=6CB6FF"/>
+  <i>💡 Open to collaborations on AI/ML research projects and innovative applications</i>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jayavanth18&label=Profile%20Views&color=6CB6FF&style=flat-square" alt="Profile Views"/>
 </p>

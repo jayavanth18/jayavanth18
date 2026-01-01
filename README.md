@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Applied%20AI-5E17EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Style-Clean%20%26%20Practical-2b1055?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOCUS-Applied%20AI-5E17EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AREAS-NLP%20%E2%80%A2%20DL%20%E2%80%A2%20RL-2b1055?style=for-the-badge"/>
 </p>
 
 ---
@@ -23,19 +23,9 @@
 
 I am a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning**, currently pursuing **B.Tech in CSE (AI & ML)** at **VIT-AP University**.
 
-I enjoy working on machine learning problems end to end, from data preprocessing and experimentation to evaluation and refinement. My interests mainly lie in **NLP, deep learning, and reinforcement learning**, where I focus on understanding model behavior instead of just optimizing metrics.
+I enjoy working on machine learning problems end to end, from data preprocessing and experimentation to evaluation and refinement. My main interests are **NLP, deep learning, and reinforcement learning**, where I focus on understanding model behavior rather than only optimizing metrics.
 
-I use GitHub as a place to document what I build and learn, keeping implementations clean, readable, and easy to revisit later.
-
----
-
-## Areas I Work In
-
-- Natural Language Processing with Transformer-based models  
-- Applied machine learning and evaluation  
-- Deep learning applications, especially in healthcare  
-- Reinforcement learning in simulated environments  
-- Writing clean and understandable ML code  
+I use GitHub as a place to document what I build and learn, keeping implementations clean, readable, and easy to revisit.
 
 ---
 
@@ -64,7 +54,7 @@ I use GitHub as a place to document what I build and learn, keeping implementati
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
 </p>
 
 ---
@@ -74,15 +64,15 @@ I use GitHub as a place to document what I build and learn, keeping implementati
 - Combining Transformer models with classical ML approaches  
 - Working with multilingual and code-mixed text (Telugu, Hinglish)  
 - Improving evaluation and error analysis for NLP models  
-- Exploring different reinforcement learning strategies  
+- Exploring reinforcement learning strategies  
 
 ---
 
 ## Beyond Coding
 
-- Playing the **piano** and spending time with music  
-- Playing **video games**  
-- Staying active through **sports and fitness**  
+- Playing the **piano**
+- Playing **video games**
+- Staying active through **sports and fitness**
 
 ---
 

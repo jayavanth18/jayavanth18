@@ -50,11 +50,7 @@ I use GitHub as a place to document what I build and learn, keeping implementati
 
 ### Frameworks & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,jupyter&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 
 ---

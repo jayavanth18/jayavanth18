@@ -1,52 +1,52 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1055,50:3a1c71,100:000000&height=190&section=header&text=Athota%20Jayavanth&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1055,50:3a1c71,100:000000&height=180&section=header&text=Athota%20Jayavanth&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
     width="100%"
   />
 </div>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1100&color=B48EFA&center=true&vCenter=true&width=650&lines=AI+%7C+Machine+Learning+%7C+Deep+Learning;Natural+Language+Processing;Reinforcement+Learning;Building+practical+and+reliable+ML+systems"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=B48EFA&center=true&vCenter=true&width=650&lines=AI+and+Machine+Learning;Deep+Learning+and+NLP;Reinforcement+Learning;Building+practical+ML+systems"
   />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Applied%20AI%20Systems-5E17EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Theme-Dark%20%26%20Minimal-2b1055?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Applied%20AI-5E17EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Style-Clean%20%26%20Practical-2b1055?style=for-the-badge"/>
 </p>
 
 ---
 
-## 💫 About Me
+## About Me
 
-I am an **AI/ML-focused Computer Science undergraduate** pursuing **B.Tech in CSE (AI & ML)** at **VIT-AP University**, with hands-on experience in **Natural Language Processing, Deep Learning, and Reinforcement Learning**.
+I am a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning**, currently pursuing **B.Tech in CSE (AI & ML)** at **VIT-AP University**.
 
-I enjoy building **end-to-end machine learning systems**, focusing on **clean preprocessing pipelines, solid evaluation, and practical model behavior**, rather than just chasing metrics. My work includes Transformer-based NLP models, deep learning for healthcare applications, and reinforcement learning experiments in simulated environments.
+I enjoy working on machine learning problems end to end, from data preprocessing and experimentation to evaluation and refinement. My interests mainly lie in **NLP, deep learning, and reinforcement learning**, where I focus on understanding model behavior instead of just optimizing metrics.
 
-I use GitHub as a place to **document learning, experiments, and well-structured implementations**, keeping things simple, readable, and reproducible.
-
----
-
-## 🧠 Core Areas
-
-- 🧠 Natural Language Processing (Transformers)
-- 🔍 Applied Machine Learning
-- 🩺 Deep Learning for Healthcare
-- 🎮 Reinforcement Learning
-- ⚙️ Practical ML system development
+I use GitHub as a place to document what I build and learn, keeping implementations clean, readable, and easy to revisit later.
 
 ---
 
-## 🧰 Tech I’m Comfortable With
+## Areas I Work In
 
-### 🔹 Languages
+- Natural Language Processing with Transformer-based models  
+- Applied machine learning and evaluation  
+- Deep learning applications, especially in healthcare  
+- Reinforcement learning in simulated environments  
+- Writing clean and understandable ML code  
+
+---
+
+## Tech I’m Comfortable With
+
+### Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css&theme=dark" />
 </p>
 
-### 🔹 ML / DL / NLP
+### ML / DL / NLP
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
 </p>
@@ -58,31 +58,35 @@ I use GitHub as a place to **document learning, experiments, and well-structured
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 </p>
 
-### 🔹 Frameworks & Tools
+### Frameworks & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,jupyter&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,linux&theme=dark" />
 </p>
 
 ---
 
-## 📌 Currently Exploring
+## What I’m Currently Focusing On
 
-- Hybrid **Transformer + classical ML** approaches  
-- Multilingual & code-mixed NLP (Telugu, Hinglish)  
-- Improving model evaluation and error analysis  
-- Reinforcement learning strategy comparisons  
-
----
-
-## 🎹 Beyond Coding
-
-- 🎹 Playing **piano** and exploring music theory  
-- 🎮 Playing **video games**  
-- ⚽ Actively involved in **sports and fitness**  
+- Combining Transformer models with classical ML approaches  
+- Working with multilingual and code-mixed text (Telugu, Hinglish)  
+- Improving evaluation and error analysis for NLP models  
+- Exploring different reinforcement learning strategies  
 
 ---
 
-## 🌐 Connect With Me
+## Beyond Coding
+
+- Playing the **piano** and spending time with music  
+- Playing **video games**  
+- Staying active through **sports and fitness**  
+
+---
+
+## Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/jayavanth18">
@@ -98,5 +102,4 @@ I use GitHub as a place to **document learning, experiments, and well-structured
   <img src="https://komarev.com/ghpvc/?username=jayavanth18&label=Profile%20Views&color=6f42c1&style=flat-square"/>
 </p>
 
-<!-- ================= FOOTER (NO IMAGES TO BREAK) ================= -->
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #2b1055, #3a1c71, #000000);" />

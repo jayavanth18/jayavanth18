@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1055,50:3a1c71,100:000000&height=180&section=header&text=Athota%20Jayavanth&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1055,50:3a1c71,100:000000&height=180&section=header&text=Jayavanth%20Athota&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
     width="100%"
   />
 </div>

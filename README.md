@@ -66,9 +66,13 @@ I use GitHub as a place to document what I build and learn, keeping implementati
 
 ## Beyond Coding
 
+<img align="right" alt="Beyond Coding" width="200" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
+
 - Playing the **piano**
 - Playing **video games**
 - Staying active through **sports and fitness**
+
+<br clear="right"/>
 
 ---
 
@@ -88,4 +92,11 @@ I use GitHub as a place to document what I build and learn, keeping implementati
   <img src="https://komarev.com/ghpvc/?username=jayavanth18&label=Profile%20Views&color=6f42c1&style=flat-square"/>
 </p>
 
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #2b1055, #3a1c71, #000000);" />
+<!-- ================= FOOTER ================= -->
+<div align="center">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+    alt="Bottom Line"
+    width="100%"
+  />
+</div>

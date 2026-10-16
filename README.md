@@ -1,102 +1,65 @@
-<!-- ================= HEADER ================= -->
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1055,50:3a1c71,100:000000&height=180&section=header&text=Jayavanth%20Athota&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
-    width="100%"
-  />
-</div>
+# jayavanth athota
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=B48EFA&center=true&vCenter=true&width=650&lines=AI+and+Machine+Learning;Deep+Learning+and+NLP;Reinforcement+Learning;Building+practical+ML+systems"
-  />
-</p>
+m.s. cs @ texas tech university.  
+interested in nlp, rag, deep learning, and building end-to-end ml systems on real data.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-Applied%20AI-5E17EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AREAS-NLP%20%E2%80%A2%20DL%20%E2%80%A2%20RL-2b1055?style=for-the-badge"/>
-</p>
+currently thinking about retrieval quality in rag, code-mixed language models, and cloud-based ml workflows.
 
 ---
 
-## About Me
+## 🔬 projects
 
-I am a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning**, currently pursuing **B.Tech in CSE (AI & ML)** at **VIT-AP University**.
+**legal document intelligence platform**  
+multi-user rag platform for legal document q&a with cited answers.  
+hybrid retrieval (vector search + bm25 with reciprocal rank fusion), ocr fallback, jwt auth, async processing.  
+`fastapi` `chromadb` `openai` `celery` `redis`  
+[code](https://github.com/jayavanth18/rag-experiments)
 
-I enjoy working on machine learning problems end to end, from data preprocessing and experimentation to evaluation and refinement. My main interests are **NLP, deep learning, and reinforcement learning**, where I focus on understanding model behavior rather than only optimizing metrics.
+**cyberbullying detection in telugu**  
+built a 37.8k-sample telugu–tenglish dataset and benchmarked seven bert-based models under identical conditions.  
+95.3% accuracy with mbert; distilbert was the most efficient for deployment.  
+`pytorch` `transformers` `indicnlp` `scikit-learn`  
+[code](https://github.com/jayavanth18/cyberbullying-detection-in-telugu)
 
-I use GitHub as a place to document what I build and learn, keeping implementations clean, readable, and easy to revisit.
-
----
-
-## Tech I’m Comfortable With
-
-### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css&theme=dark" />
-</p>
-
-### ML / DL / NLP
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=000"/>
-  <img src="https://img.shields.io/badge/FastAI-00C4B3?style=flat-square"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-</p>
-
-### Frameworks & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-</p>
+**skin cancer detection with cnns**  
+deep learning classifier for skin cancer images using resnet and fastai.  
+includes the dataset, notebook, pr and roc curves, confusion matrix, and a literature review.  
+`fastai` `resnet` `jupyter`  
+[code](https://github.com/jayavanth18/Skin-Cancer-Detection-CNN-FastAI)
 
 ---
 
-## What I’m Currently Focusing On
+## 🧠 currently focusing on
 
-- Combining Transformer models with classical ML approaches  
-- Working with multilingual and code-mixed text (Telugu, Hinglish)  
-- Improving evaluation and error analysis for NLP models  
-- Exploring reinforcement learning strategies  
-
----
-
-## Beyond Coding
-
-<img align="right" alt="Beyond Coding" width="200" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
-
-- Playing the **piano**
-- Playing **video games**
-- Staying active through **sports and fitness**
-
-<br clear="right"/>
+- rag systems and retrieval quality
+- multilingual and code-mixed text (telugu, english)
+- evaluation and error analysis for nlp models
+- building end-to-end systems on real data
 
 ---
 
-## Connect With Me
+## 🛠️ stack
 
-<p align="center">
-  <a href="https://linkedin.com/in/jayavanth18">
-    <img src="https://img.shields.io/badge/LinkedIn-2b1055?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:jayavanth18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-3a1c71?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+**languages:** python · java · javascript · c · sql  
+**ml / dl:** pytorch · tensorflow/keras · hugging face · fastai · scikit-learn · numpy · pandas  
+**backend & web:** fastapi · rest apis · celery · redis · react (basics) · streamlit  
+**cloud & tools:** aws (fundamentals) · git · linux
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayavanth18&label=Profile%20Views&color=6f42c1&style=flat-square"/>
-</p>
+---
 
-<!-- ================= FOOTER ================= -->
-<div align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-    alt="Bottom Line"
-    width="100%"
-  />
-</div>
+## 📜 certifications
+
+- aws academy cloud architecting · [view](https://www.credly.com/badges/8715af48-5625-463e-b346-b57abff7f4dc/linked_in_profile)
+- aws academy graduate – cloud foundations · [view](https://www.credly.com/badges/3e5dc0cd-be74-47aa-baac-467dd1d94502/public_url)
+- oci generative ai professional · [view](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C3AAD6B40C63742188DAABC439A7756DA951C8E4EF10844DCD595931AFA496C9)
+- oci ai foundations associate · [view](https://catalog-education.oracle.com/pls/certview/sharebadge?id=5383DB06D1DE6B160035986049B2E9B7EDA60364FD61F296346CEF97EA28A621)
+- cs50's introduction to programming with python · [view](https://drive.google.com/file/d/10YX77qo5gr6jkuscm3zAtdmvf4AVDxWp/view)
+- mern full stack development program · [view](https://drive.google.com/file/d/1fo8Eq5YvOkdvfv32rmv-4qnvIGc6o2U8/view)
+
+---
+
+## 🧊 elsewhere
+
+piano, video games, sports and fitness.
+
+[linkedin](https://linkedin.com/in/jayavanth18) · [email](mailto:jayavanth18@gmail.com)
